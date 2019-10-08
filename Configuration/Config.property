@@ -1,0 +1,3 @@
+ChromeDriver=C:/Users/oshri/Desktop/selenium/chromedriver.exe
+URL=https://www.toolsqa.com/automation-practice-form/
+FirefoxDriver=C:/Users/oshri/Desktop/selenium/geckodriver.exe
